@@ -1,0 +1,5 @@
+app:
+  message: Welcome to SmartCart Microservices System 🚀
+
+server:
+  test-property: This value comes from Git Config Server
